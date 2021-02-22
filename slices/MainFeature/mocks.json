@@ -1,0 +1,34 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "MainFeature",
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "repurpose distributed e-tailers",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Reprehenderit aliquip sit fugiat ad in reprehenderit irure eu aliquip esse irure.",
+          "spans": []
+        }
+      ],
+      "buttonText": [
+        {
+          "type": "heading1",
+          "text": "click here",
+          "spans": []
+        }
+      ]
+    },
+    "items": [],
+    "slice_type": "main_feature"
+  }
+]

@@ -1,0 +1,5 @@
+export { default as MainFeature } from './MainFeature'
+export { default as FeaturesList } from './FeaturesList'
+export { default as FaqSection } from './FaqSection'
+export { default as ContactSection } from './ContactSection'
+export { default as ContactUs } from './ContactUs'

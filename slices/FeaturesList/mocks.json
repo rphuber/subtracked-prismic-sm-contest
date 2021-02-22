@@ -1,0 +1,76 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "FeaturesList",
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "synthesize open-source synergies",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Excepteur non pariatur cillum ullamco cupidatat commodo aliqua mollit ut et proident. Est nostrud enim velit.\nFugiat dolore labore commodo cupidatat do deserunt ea quis nisi enim ullamco minim ullamco.\nAliqua dolor esse eiusmod anim magna minim nostrud magna enim quis ea occaecat ipsum anim et. Velit mollit culpa tempor eu tempor mollit ipsum consequat dolor amet proident veniam nulla.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [
+      {
+        "title": [
+          {
+            "type": "heading1",
+            "text": "Lorem ipsum",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "heading1",
+            "text": "Exercitation cupidatat dolor irure elit elit ullamco nostrud magna nulla duis.\nFugiat commodo deserunt sint ut occaecat dolor nostrud.\nSit deserunt ad qui ipsum id occaecat tempor Lorem. Reprehenderit sunt consectetur amet occaecat qui voluptate nostrud mollit proident. Culpa incididunt nulla minim est dolor mollit.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "title": [
+          {
+            "type": "heading1",
+            "text": "Lorem ipsum",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "heading1",
+            "text": "Sit non laboris minim. Reprehenderit sunt veniam incididunt reprehenderit cupidatat mollit enim ex aliquip dolore aliqua aliquip. Ut quis in labore ut.\nDeserunt reprehenderit veniam occaecat esse ut laborum Lorem culpa sunt.\nConsectetur magna id consectetur minim sint.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "title": [
+          {
+            "type": "heading1",
+            "text": "Lorem ipsum",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "heading1",
+            "text": "Labore veniam et labore.",
+            "spans": []
+          }
+        ]
+      }
+    ],
+    "slice_type": "features_list"
+  }
+]
